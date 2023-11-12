@@ -1,3 +1,4 @@
+
 import React from "react";
 
 const Alert = ({ alert }) => {
@@ -18,3 +19,4 @@ const Alert = ({ alert }) => {
 };
 
 export default Alert;
+
